@@ -497,6 +497,10 @@ html {
     font-size: 20rem;
   }
 
+  .menu {
+    left: 2rem;
+  }
+
   .section-4 {
     height: 40rem;
     flex-direction: column;
