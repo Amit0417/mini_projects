@@ -524,10 +524,11 @@ html {
   .navbar-link {
     margin: 0 0.7rem;
   }
-  @media (max-width: 480px) {
-    .menu {
-      left: 4rem;
-    }
+}
+
+@media (max-width: 480px) {
+  .menu {
+    left: 4rem;
   }
 }
 /* End Of Responsive */
