@@ -518,6 +518,9 @@ html {
     font-size: 40%;
   }
 
+  .menu {
+    left: 4rem;
+  }
   .navbar-link {
     margin: 0 0.7rem;
   }
@@ -525,7 +528,7 @@ html {
 
 @media (max-width: 480px) {
   .menu {
-    left: 1rem;
+    left: 4rem;
   }
 }
 /* End Of Responsive */
