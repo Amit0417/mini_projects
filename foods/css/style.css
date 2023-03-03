@@ -528,7 +528,7 @@ html {
 
 @media (max-width: 480px) {
   .menu {
-    left: 4rem;
+    left: 1rem;
   }
 }
 /* End Of Responsive */
